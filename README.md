@@ -1,3 +1,3 @@
-# ETHDenver MACI proofs
+# MACI proofs
 
-The public information of [ETHDenver 2022 BUIDLathon MACI Voting Round](https://hackerlink.io/grant/ethdenver22/)
+The public information of [Dorahacks MACI Grants](https://hackerlink.io/grant/)
